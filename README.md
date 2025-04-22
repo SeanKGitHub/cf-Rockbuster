@@ -26,7 +26,7 @@ The database contains the following tables
 - payment 
 - rental
 
-![ERD Diagram](images/ERD_Rockbuster_DB_Organic.jpg)
+![ERD Diagram](ERD_Rockbuster_DB_Organic.jpg)
 
 Data is fictional and provided by CareerFoundry GmbH
  
