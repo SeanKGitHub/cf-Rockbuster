@@ -1,8 +1,8 @@
 -- Queries for checking the film and customer tables of Rockbuster data
 -- Checks for duplicate rows, missing values and invalid/non-uniform values
+
     -- 'film' table
 -- DUPLICATES  
--- Checking for duplicates in film table
 SELECT film_id, 
     title, 
     description, 
