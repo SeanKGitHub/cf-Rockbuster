@@ -4,9 +4,7 @@ This repository contains files with SQL queries for the analysis of data from Ro
 
 Objectives
 ---
-First, check and clean selected tables for missing, duplicate and invalid or non-uniform data: '1_cleaning_rockbuster'
-
-The main objective is to generate information for a 3-stage marketing: '2_rockbuster_top_customer_queries'. The campaign first locates the top 10 countries in terms of customer count, then the top 10 cities from within these countries in terms of customer count, and then finds the top 5 customers from these top 10 cities. Descriptive statistics on which genres of film have the longest average rental length are also generated.
+After checking and cleaning selected tables for missing, duplicate and invalid or non-uniform data ('1_cleaning_rockbuster'), the primary objective is to generate information for a 3-stage marketing campaign: '2_rockbuster_top_customer_queries'. The campaign first locates the top 10 countries in terms of customer count, then the top 10 cities from within these countries in terms of customer count, and then finds the top 5 customers from these top 10 cities. Descriptive statistics on which genres of film have the longest average rental length are also generated.
 
 Data
 ---
